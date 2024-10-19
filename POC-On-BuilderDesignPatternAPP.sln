@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderDesignPattern-Violation", "POC-On-BuilderDesignPattern\BuilderDesignPattern-Violation.csproj", "{C9ADE4A0-B29D-4CAE-A5D9-1BE5EDA2F5D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC-on-BuilderDesignPattern-Solution", "POC-on-BuilderDesignPattern-Solution\POC-on-BuilderDesignPattern-Solution.csproj", "{824D5E36-60A5-4D21-B316-B7F575D7E136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9ADE4A0-B29D-4CAE-A5D9-1BE5EDA2F5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9ADE4A0-B29D-4CAE-A5D9-1BE5EDA2F5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9ADE4A0-B29D-4CAE-A5D9-1BE5EDA2F5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9ADE4A0-B29D-4CAE-A5D9-1BE5EDA2F5D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824D5E36-60A5-4D21-B316-B7F575D7E136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824D5E36-60A5-4D21-B316-B7F575D7E136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824D5E36-60A5-4D21-B316-B7F575D7E136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824D5E36-60A5-4D21-B316-B7F575D7E136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A4AEF6C-03B5-41AE-AE1F-D1DEE11824A2}
+	EndGlobalSection
+EndGlobal
